@@ -5,7 +5,7 @@
 ### MiniUno
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.lforestor.superminiuno)
 
-<img src="https://user-images.githubusercontent.com/45004786/90223115-a6ba0d80-de37-11ea-83bb-315be6552851.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223150-b6395680-de37-11ea-9940-016d0dd96133.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223252-e5e85e80-de37-11ea-87c8-0a9a60ebcecb.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223394-2647dc80-de38-11ea-8e19-1ad4bc436454.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223404-2942cd00-de38-11ea-99cb-0b6c1e1078ab.png" width="185"/> 
+<img src="https://user-images.githubusercontent.com/45004786/90223115-a6ba0d80-de37-11ea-83bb-315be6552851.png" width="150"/> <img src="https://user-images.githubusercontent.com/45004786/90223150-b6395680-de37-11ea-9940-016d0dd96133.png" width="150"/> <img src="https://user-images.githubusercontent.com/45004786/90223252-e5e85e80-de37-11ea-87c8-0a9a60ebcecb.png" width="150"/> <img src="https://user-images.githubusercontent.com/45004786/90223394-2647dc80-de38-11ea-8e19-1ad4bc436454.png" width="150"/> <img src="https://user-images.githubusercontent.com/45004786/90223404-2942cd00-de38-11ea-99cb-0b6c1e1078ab.png" width="150"/> 
 
 ### MiniDomino
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.lforestor.dominodemo&hl=en)
