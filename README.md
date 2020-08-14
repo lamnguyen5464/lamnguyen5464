@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hallo
 
-<!--
-**lamnguyen5464/lamnguyen5464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Individual Projects
 
-Here are some ideas to get you started:
+### MiniUno
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.lforestor.superminiuno)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/45004786/90223115-a6ba0d80-de37-11ea-83bb-315be6552851.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223150-b6395680-de37-11ea-9940-016d0dd96133.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223252-e5e85e80-de37-11ea-87c8-0a9a60ebcecb.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223394-2647dc80-de38-11ea-8e19-1ad4bc436454.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90223404-2942cd00-de38-11ea-99cb-0b6c1e1078ab.png" width="185"/> 
+
+### MiniDomino
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.lforestor.dominodemo&hl=en)
+
+<img src="https://user-images.githubusercontent.com/45004786/79688574-4d6f1280-8279-11ea-9c83-e03be0cb4763.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/79688641-c40c1000-8279-11ea-94ea-bbf4cbac255b.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/79688657-e140de80-8279-11ea-9980-f49ec9dccf2c.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/79688669-f158be00-8279-11ea-8cc7-faf79474e951.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/79688681-02a1ca80-827a-11ea-9dcf-226584523013.png" width="185"/> 
+
+### HowPopular?
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.lforestor.dominodemo&hl=en)
+
+<img src="https://user-images.githubusercontent.com/45004786/90223927-25637a80-de39-11ea-8a0f-2b1f45fbcfe2.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90224015-3dd39500-de39-11ea-87f7-9da89070cbf8.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90224026-41ffb280-de39-11ea-92c9-a5afa04dd1aa.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90224030-42984900-de39-11ea-945e-834c0855458b.png" width="185"/> <img src="https://user-images.githubusercontent.com/45004786/90224182-7a06f580-de39-11ea-84c7-1053153fe691.png" width="185"/> 
+
