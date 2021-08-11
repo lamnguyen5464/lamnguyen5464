@@ -7,6 +7,30 @@ You can call me as an 'AppWorm' who dives into Mobile application development
 
 ## Side Projects
 
+###  [Draw together (demo)](https://github.com/lamnguyen5464/Draw-together-beta)
+
+#### Set up
+After clone this project, set up environment of NodeJS (for run local sever), Android Studio, Xcode (if you want to build iOS app).
+Change direction to this source and run this setting-up script that I have prepared in `yarn` or `npm`:
+
+```
+yarn setup
+```
+or 
+```
+npm run setup
+```
+This scrip is constructed to set up local websocket server with `PORT: 3000` and sync url to configuration files in Android Studio and XCode
+
+#### Tech stack
+Kotlin, Java (Android app), Swift (iOS app), NodeJs, Express, SocketIO.
+
+#### Demo
+
+<img src="drawTogetherDemo.gif" alt="drawing" width="300"/>
+
+---
+
 ### [Colors-constant-generator](https://github.com/lamnguyen5464/colors-constant-generator)
 This repo provides a great deal of color contants in heximal for App development code base
 
@@ -59,29 +83,6 @@ const BACK_FUND_75 = Color(0xff00000075);   //#00000075
 const BACKGROUND_GRAY = Color(0xffedeeee);   //#edeeee 
 ...
 ```
----
-###  [Draw together (demo)](https://github.com/lamnguyen5464/Draw-together-beta)
-
-#### Set up
-After clone this project, set up environment of NodeJS (for run local sever), Android Studio, Xcode (if you want to build iOS app).
-Change direction to this source and run this setting-up script that I have prepared in `yarn` or `npm`:
-
-```
-yarn setup
-```
-or 
-```
-npm run setup
-```
-This scrip is constructed to set up local websocket server with `PORT: 3000` and sync url to configuration files in Android Studio and XCode
-
-#### Tech stack
-Kotlin, Java (Android app), Swift (iOS app), NodeJs, Express, SocketIO.
-
-#### Demo
-
-<img src="drawTogetherDemo.gif" alt="drawing" width="300"/>
-
 ---
 ### [MiniPocket](https://github.com/lamnguyen5464/MiniPocket)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.lamnguyen5454.myapplication.wolit)
