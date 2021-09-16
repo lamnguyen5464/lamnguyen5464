@@ -2,7 +2,9 @@
 
 ## About `lamnguyen5464`
 Hi ✌️
+
 Call me Truong Lam - Mobile developer.
+
 I'm into Android native (Java/Kotlin), iOS native (Swift), React-native/ReactJS.
 
 ---
