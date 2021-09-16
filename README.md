@@ -2,8 +2,8 @@
 
 ## About `lamnguyen5464`
 Hi ✌️
-
-You can call me as an 'AppWorm' who dives into Mobile application development
+Call me Truong Lam - Mobile developer.
+I'm into Android native (Java/Kotlin), iOS native (Swift), React-native/ReactJS.
 
 ---
 ## Side Projects
