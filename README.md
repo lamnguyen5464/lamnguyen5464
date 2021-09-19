@@ -5,7 +5,7 @@ Hi ✌️
 
 Call me Truong Lam - Mobile developer.
 
-I'm into Android native (Java/Kotlin), iOS native (Swift), React-native/ReactJS.
+I'm into Android native (Java/Kotlin), iOS native (Swift) and cross-platform technologies (React-native, Flutter).
 
 ---
 ## Side Projects
