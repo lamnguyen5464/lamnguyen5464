@@ -6,6 +6,9 @@ Hi ✌️
 Call me Truong Lam - Mobile developer.
 
 I'm into Android native (Java/Kotlin), iOS native (Swift) and cross-platform technologies (React-native, Flutter).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamnguyen5464&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
 ## Side Projects
