@@ -15,7 +15,7 @@ I'm into Android native (Java/Kotlin), iOS native (Swift) and cross-platform tec
 ---
 ## Side Projects
 
-### [Where my Images](https://github.com/lamnguyen5464/RN-WhereMyImage)
+### [Where my Images](https://play.google.com/store/apps/details?id=com.wheremyimages)
 Caption-based images gallery search Application
 
 #### Usage
@@ -40,8 +40,8 @@ npm run all
 ...to install neccessary packages and start metro bundle before build/run in Android Studio/Xcode
 
 #### Screenshot
-<img src="https://user-images.githubusercontent.com/45004786/133646152-6dfe767e-3813-45ef-bd5a-ca179a2af642.png" height="300"/> 
-<img src="https://user-images.githubusercontent.com/45004786/133648032-a555b915-00e4-4eb0-a7e7-f7382ca48370.png" height="300"/> 
+<img src="https://user-images.githubusercontent.com/45004786/133646152-6dfe767e-3813-45ef-bd5a-ca179a2af642.png" width="100%"/> 
+<img src="https://user-images.githubusercontent.com/45004786/133648032-a555b915-00e4-4eb0-a7e7-f7382ca48370.png" width="100%"/> 
 
 ---
 
