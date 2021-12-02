@@ -16,13 +16,6 @@ I'm into Android native (Java/Kotlin), iOS native (Swift) and cross-platform tec
 ## Projects
 
 
-### [MoMo feature]
-
-
-#### Screenshot
-<img src="https://user-images.githubusercontent.com/45004786/144394635-f245bc0d-c76a-4751-99b2-8945af4f2451.png" width="100%"/> <img src="https://user-images.githubusercontent.com/45004786/144394654-1a7a3cd0-1ce1-459d-8b0c-27f1851a05a2.png" width="49%"/> <img src="https://user-images.githubusercontent.com/45004786/144394592-c8a48f0c-12ef-4fa9-90f4-16bf14b7e84d.png" width="49%"/> 
-
-
 ### [Where my Images](https://play.google.com/store/apps/details?id=com.wheremyimages)
 Caption-based images gallery search Application
 
@@ -50,6 +43,15 @@ npm run all
 #### Screenshot
 <img src="https://user-images.githubusercontent.com/45004786/133646152-6dfe767e-3813-45ef-bd5a-ca179a2af642.png" width="100%"/> 
 <img src="https://user-images.githubusercontent.com/45004786/133648032-a555b915-00e4-4eb0-a7e7-f7382ca48370.png" width="100%"/> 
+
+---
+
+
+### MoMo feature
+
+
+#### Screenshot
+<img src="https://user-images.githubusercontent.com/45004786/144394635-f245bc0d-c76a-4751-99b2-8945af4f2451.png" width="100%"/> <img src="https://user-images.githubusercontent.com/45004786/144394654-1a7a3cd0-1ce1-459d-8b0c-27f1851a05a2.png" width="49%"/> <img src="https://user-images.githubusercontent.com/45004786/144394592-c8a48f0c-12ef-4fa9-90f4-16bf14b7e84d.png" width="49%"/> 
 
 ---
 
