@@ -3,9 +3,36 @@
 
 ## Hi, there 👋🏼
 
-Call me Truong Lam - Mobile developer.
+```javascript
+const ME = {
+  id: "lamnguyen5464",
+  name: "Lam Nguyen",
+  role: "Software engineer",
+  languages: [
+    "JavaScript",
+    "Java",
+    "Kotlin",
+    "Swift",
+    "Python",
+    "C/C++",
+    "Dart",
+  ],
+  technologies: [
+    "React-Native",
+    "Android native",
+    "iOS native",
+    "Flutter",
+    "SpringBoot",
+    "Nodejs",
+    "MySQL",
+    "Docker",
+    "Firebase",
+  ],
+};
 
-I'm into Android native (Java/Kotlin), iOS native (Swift) and cross-platform technologies (React-native, Flutter).
+// console.log(JSON.stringify(me, null, 5));
+
+```
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamnguyen5464&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
