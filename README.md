@@ -1,7 +1,7 @@
-# Hallo
+# `lamnguyen5464`
 
-## About `lamnguyen5464`
-Hi ✌️
+
+## Hi, there 👋🏼
 
 Call me Truong Lam - Mobile developer.
 
