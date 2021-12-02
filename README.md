@@ -1,7 +1,5 @@
-# `lamnguyen5464`
+## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-## Hi, there 👋🏼
 
 ```javascript
 const ME = {
@@ -33,7 +31,6 @@ const ME = {
 // console.log(JSON.stringify(me, null, 5));
 
 ```
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamnguyen5464&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -76,8 +73,8 @@ npm run all
 
 ### MoMo's features
 
+![](https://img.shields.io/badge/Technology-ReactNative-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=52c41a)
 
-#### Screenshot
 <img src="https://user-images.githubusercontent.com/45004786/144394635-f245bc0d-c76a-4751-99b2-8945af4f2451.png" width="100%"/> <img src="https://user-images.githubusercontent.com/45004786/144394654-1a7a3cd0-1ce1-459d-8b0c-27f1851a05a2.png" width="49%"/> <img src="https://user-images.githubusercontent.com/45004786/144394592-c8a48f0c-12ef-4fa9-90f4-16bf14b7e84d.png" width="49%"/> 
 
 ---
