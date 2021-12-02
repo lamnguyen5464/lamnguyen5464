@@ -47,7 +47,7 @@ npm run all
 ---
 
 
-### MoMo feature
+### MoMo's features
 
 
 #### Screenshot
