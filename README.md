@@ -31,10 +31,9 @@ const ME = {
 // console.log(JSON.stringify(me, null, 5));
 
 ```
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamnguyen5464&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ -->
 
 ---
 ## Projects
