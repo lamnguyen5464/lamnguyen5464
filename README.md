@@ -86,6 +86,15 @@ npm run all
 ---
 
 
+### Draw by script
+
+Sketching app with the object-completion by scripting-detection
+
+<img src="draw-by-script-demo2.gif" alt="drawing" width="45%"/> <img src="draw-by-script-demo.gif" alt="drawing" width="45%"/>
+
+---
+
+
 ### MoMo's features
 
 ![](https://img.shields.io/badge/Technology-ReactNative-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=52c41a)
