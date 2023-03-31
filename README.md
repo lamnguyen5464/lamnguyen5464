@@ -40,6 +40,16 @@ const ME = {
 ---
 ## Projects
 
+
+### Draw by script
+
+Sketching app with the object-completion by scripting-detection
+
+<img src="draw-by-script-demo2.gif" alt="drawing" width="45%"/> <img src="draw-by-script-demo.gif" alt="drawing" width="45%"/>
+
+---
+
+
 ### [onLineUp - Mobile app](https://github.com/lamnguyen5464/app-onLineUp)
 
 Queuing is an important aspect of our daily social lives. And it frequently results in unwanted behaviors such as queue-jumping, jostling,… caused by long wait times, and people's varying levels of urgency. Furthermore, because of the ongoing epidemic, there is a high risk of catching the Covid-19 virus while queuing.
@@ -82,15 +92,6 @@ npm run all
 #### Screenshot
 <img src="https://user-images.githubusercontent.com/45004786/133646152-6dfe767e-3813-45ef-bd5a-ca179a2af642.png" width="100%"/> 
 <img src="https://user-images.githubusercontent.com/45004786/133648032-a555b915-00e4-4eb0-a7e7-f7382ca48370.png" width="100%"/> 
-
----
-
-
-### Draw by script
-
-Sketching app with the object-completion by scripting-detection
-
-<img src="draw-by-script-demo2.gif" alt="drawing" width="45%"/> <img src="draw-by-script-demo.gif" alt="drawing" width="45%"/>
 
 ---
 
